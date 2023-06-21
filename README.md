@@ -1,8 +1,8 @@
 <img align="center" alt="Coding" width="100%" height="200"  src="https://i.giphy.com/media/128Ygie2wLdH5m/giphy.webp"/>
-<h1 align="center">Hi 👋, I'm Serge Yegorian</h1>
+<h1 align="center">Hi 👋, I'm Serge</h1>
 <h3 align="center">A passionate full stack developer from South Florida</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serge-yegorian&label=Profile%20views&color=0e75b6&style=flat" alt="serge-yegorian" /> </p>
+
 
 - 🔭 I’m currently working on [dojoahead](https://github.com/serge-yegorian/dojoahead-client)
 
