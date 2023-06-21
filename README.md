@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="200"  src="https://i.giphy.com/media/128Ygie2wLdH5m/giphy.webp"/>
+<img align="center" alt="Coding" width="100%" height="100"  src="https://i.giphy.com/media/128Ygie2wLdH5m/giphy.webp"/>
 <h1 align="center">Hi 👋, I'm Serge</h1>
 <h3 align="center">A passionate full stack developer from South Florida</h3>
 
