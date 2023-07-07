@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ieg.sergo@gmail.com**
 
-- 📄 Know about my experiences [http://127.0.0.1:5500/index.html#](http://127.0.0.1:5500/index.html#)
+- 📄 Know about my experiences [serge-yegorian.com#]([http://127.0.0.1:5500/index.html#](https://sergeyegorian.com/#))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
